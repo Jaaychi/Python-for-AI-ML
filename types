@@ -1,0 +1,20 @@
+# will tell you the type of the variable
+type("1")
+type(1)
+type(1.1)
+
+# you can also cast the variable into a different type
+float(1)
+# will turn this into 1.0
+int(1.1)
+# will turn this into 1
+
+# you can turn a number into a string
+
+str(1) # will return a string "1"
+
+# type(True) will return bool
+
+# casting a int(True) will return 1 and int(False) will return 0
+
+
