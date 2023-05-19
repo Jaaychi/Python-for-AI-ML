@@ -1,0 +1,20 @@
+#Expressions
+43+60+15+31
+
+operands are the numbers & operators is the addition signs
+
+Expressions: Mathematical Operations
+
+if you divide using // this will round the result down to the nearest integer
+if you divide using / this will give you a float result
+
+my_variable=1
+
+x=160
+
+y=x/60 #y = 2.666
+
+
+
+
+
