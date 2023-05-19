@@ -17,4 +17,12 @@ str(1) # will return a string "1"
 
 # casting a int(True) will return 1 and int(False) will return 0
 
+print(type("hello"))
+print(type(1))
+print(type(1.1))
+print(int(1.1))
+print(str(1))
+print(int(True))
+print(int(False))
+
 
